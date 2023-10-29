@@ -1,4 +1,4 @@
-# git_pstu
+# Машина Тьюринга 10 СС
 ![1 Step](https://github.com/refflexer75/git_pstu/blob/main/1.jpg)
 ![2 Step](https://github.com/refflexer75/git_pstu/blob/main/2.jpg)
 ![3 Step](https://github.com/refflexer75/git_pstu/blob/main/3.jpg)
